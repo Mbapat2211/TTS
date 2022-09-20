@@ -1,8 +1,5 @@
-﻿build-essential
-libasound-dev
-portaudio19-dev
-python3-pyaudio
- aiofiles==22.1.0
+python3-pyaudio==0.2.11
+aiofiles==22.1.0
 aiohttp==3.8.1
 aiosignal==1.2.0
 aiostream==0.4.5
