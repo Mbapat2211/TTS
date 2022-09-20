@@ -1,3 +1,5 @@
 libespeak1
 alsa-utils
-pulseaudio-alsa
+alsa-firmware
+sof-firmware
+alsa-ucm-conf
