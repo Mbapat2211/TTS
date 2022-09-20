@@ -1,5 +1,8 @@
 import pyttsx3 as pt
 import streamlit as st
+import os
+
+os.environ['SDL_AUDIODRIVER'] = 'dsp'
 
 st.title("Text to Speech Converter")
 
